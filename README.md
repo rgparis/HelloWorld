@@ -1,1 +1,1 @@
-This is the most basic program without Gradle. Use it to tst IntelliJ functionality.
+This is the most basic program without Gradle. Use it to test IntelliJ functionality.
